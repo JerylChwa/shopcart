@@ -9,7 +9,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   
   <React.StrictMode>
-    <BrowserRouter basename="/EMart">
+    <BrowserRouter>
     <App />
     </BrowserRouter>
   </React.StrictMode>
@@ -23,7 +23,7 @@ root.render(
 
 // ReactDOM.render(
 //   <React.StrictMode>
-//   <Router basename="/EMart">
+//   <Router basename="/shopcart">
 //     <App />
 //   </Router>
 //   </React.StrictMode>,

@@ -42,7 +42,7 @@ const Navbar = () => {
             <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-10 h-10 text-white p-2 bg-[#b642be] rounded-full" viewBox="0 0 24 24">
               <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path>
             </svg>
-            <span className="ml-3 text-xl">EMart</span>
+            <span className="ml-3 text-xl">shopcart</span>
           </Link>
           <button className="text-gray-700 border border-gray-300 rounded-full hover:bg-[#b642be] hover:text-white flex items-center transition-colors duration-300 md:hidden" onClick={() => navigate('/cart')}>
             <i className="fa fa-shopping-cart me-1"></i>

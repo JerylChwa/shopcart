@@ -10,7 +10,7 @@ const Footer = () => {
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-10 h-10 text-white p-2 bg-[#b642be] rounded-full" viewBox="0 0 24 24">
                     <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path>
                     </svg>
-                    <span className="ml-3 text-xl">EMart</span>
+                    <span className="ml-3 text-xl">shopcart</span>
                 </a>
                 <p className="mt-2 text-sm text-gray-500">One stop destination for all your clothes, accessories and electronics</p>
                 </div>
@@ -87,8 +87,8 @@ const Footer = () => {
             </div>
             <div className="bg-gray-100">
                 <div className="container mx-auto py-2 px-5 flex flex-wrap flex-col sm:flex-row">
-                <p className="text-gray-500 text-sm text-center sm:text-left">© EMart —
-                    <a href="https://twitter.com/knyttneve" rel="noopener noreferrer" className="text-gray-600 ml-1" target="_blank">@www.emart.com</a>
+                <p className="text-gray-500 text-sm text-center sm:text-left">© shopcart —
+                    <a href="https://twitter.com/knyttneve" rel="noopener noreferrer" className="text-gray-600 ml-1" target="_blank">@www.shopcart.com</a>
                 </p>
                 <span className="inline-flex sm:ml-auto sm:mt-0 mt-2 justify-center sm:justify-start">
                     <a className="text-gray-500">

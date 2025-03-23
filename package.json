@@ -1,6 +1,5 @@
 {
-  "homepage": "https://RishikaC06.github.io/EMart",
-  "name": "emart",
+  "name": "shopcart",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
