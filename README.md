@@ -10,10 +10,6 @@ ShopCart is a responsive e-commerce web application built using **React.js**, **
 - Add and remove items from the cart
 - Smooth UI powered by React and Tailwind CSS
 
-## Live Demo
-
-Check out the deployed project here: [ShopCart Live Site](#)  
-*(Replace `#` with your deployed URL)*
 
 ## Getting Started
 
@@ -22,3 +18,18 @@ Check out the deployed project here: [ShopCart Live Site](#)
 ```bash
 git clone https://github.com/JerylChwa/shopcart.git
 cd shopcart
+```
+### 2. Install Dependencies
+
+```
+npm install
+```
+
+### 3. Start development server
+```
+npm start
+```
+The app will run in development mode.
+Open http://localhost:3000 to view it in your browser.
+
+
